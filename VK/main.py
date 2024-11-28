@@ -12,7 +12,7 @@ text = json.loads(data_json)
 
 date = str(datetime.datetime.now().year) + "." + str(datetime.datetime.now().month) + "." + str(datetime.datetime.now().day)
 
-vk_session = vk_api.VkApi(token='vk1.a.RHNQsEEP0NWNQJtyHVVBoclBzqRW9Sr_Pquuo5-1aVhXwMgceSCQTE7zplpT76Rn83IoADxz0iH1TDIAcTtXBGKSoyKSDc_Fj9KyjpzyuUbx3xe9_AMPVhZlugBSJ1MW8NuYxy18vI5oQartR_rjV-4T8MP3ssA5Ba344VM49EN31kGNg2Nbm-q5JSJSRUnTXMBZMQl6smFxqIBKYL6F5w')
+vk_session = vk_api.VkApi(token='token')
 
 longpoll = VkLongPoll(vk_session)
 vk = vk_session.get_api()
