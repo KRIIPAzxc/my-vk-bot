@@ -1,0 +1,27 @@
+
+<0.25.31.617100> --> /help --> script: 'help.py' --> done
+<0.44.4.329794> --> 1 script error: 'translator.py' --> 'Event' object has no attribute 'id'
+<0.44.13.153920> --> 1 script error: 'translator.py' --> 'Event' object has no attribute 'id'
+<0.45.37.104611> --> 1 script error: 'translator.py' --> 'Event' object has no attribute 'id'
+<0.45.41.510541> --> 123 script error: 'translator.py' --> 'Event' object has no attribute 'id'
+<0.46.23.449986> --> 1 script error: 'translator.py' --> 'Event' object has no attribute 'id'
+<0.46.27.772902> --> 1 script error: 'translator.py' --> 'Event' object has no attribute 'id'
+<0.47.26.184504> --> /help --> script: 'help.py' --> done
+<0.47.30.761037> --> /help --> script: 'help.py' --> done
+<0.48.27.955872> --> /help --> script: 'help.py' --> done
+<0.48.55.133502> --> /help --> script: 'help.py' --> done
+<0.48.59.513982> --> /help --> script: 'help.py' --> done
+<0.49.40.161227> --> /ping pong 
+<0.49.48.582208> --> /help --> script: 'help.py' --> done
+<0.51.55.743488> --> /help --> script: 'help.py' --> done
+<0.52.56.385012> --> /help --> script: 'help.py' --> done
+<0.53.0.114050> --> /ping pong 
+<0.53.5.932975> --> /help translate --> script: 'help.py' --> done
+<0.53.34.969536> --> /translate en привет --> script: 'translator.py' --> done
+<0.54.3.948149> --> /translate --> script: 'translator.py' --> script error :list index out of range
+<0.54.10.65014> --> /help --> script: 'help.py' --> done
+<0.55.2.349406> --> /language --> script: 'language.py' --> script error :list index out of range
+<0.55.7.559939> --> /language en --> script: 'language.py' --> done
+<0.56.30.190988> --> /language --> script: 'language.py' --> script error :list index out of range
+<0.56.34.126747> --> /language ru --> script: 'language.py' --> done
+<0.56.36.909348> --> /language --> script: 'language.py' --> script error :list index out of range
