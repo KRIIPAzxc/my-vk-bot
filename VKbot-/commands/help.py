@@ -22,7 +22,9 @@ def main(event,vk):
         for item in data[language]:
             try:
                 if eventText[1] in item['read']:
-                    text = "/" + item["read"] + " - " + item["alldescription"] + "\n"
+                    for i in item["read"]:
+                        elem += "/" + i + ", "
+                    text = "/" + elem[:-2] + " - " + item["alldescription"] + "\n"
                     vk.messages.send(
                         peer_id=event.peer_id,
                         random_id=get_random_id(),
@@ -32,7 +34,10 @@ def main(event,vk):
                 else:
                     0/0
             except:
-                text += "/" + item["read"] + " - " + item["description"] + "\n"
+                elem = ""
+                for i in item["read"]:
+                    elem += "/" + i + ", "
+                text += elem[:-2] + " - " + item["description"] + "\n"
 
         vk.messages.send(
             peer_id=event.peer_id,

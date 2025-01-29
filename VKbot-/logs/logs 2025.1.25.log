@@ -1,0 +1,7 @@
+
+<21.22.16.618674> --> 1 'script: translator.py' --> done
+<21.35.43.77968> --> 1 'script: translator.py' --> done
+<22.27.7.325504> --> data file error:cannot access local variable 'file' where it is not associated with a value
+<22.27.47.89419> --> data file error:cannot access local variable 'file' where it is not associated with a value
+<22.28.53.108089> --> data file error:Extra data: line 7 column 2 (char 97)
+<22.30.51.867503> --> 1 'script: translator.py' --> done

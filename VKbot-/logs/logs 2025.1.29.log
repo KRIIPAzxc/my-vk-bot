@@ -1,0 +1,64 @@
+
+<21.57.54.589382> --> data file error:'474756974'
+<21.57.54.589382> --> /translate bua  добрый день --> script: 'translator.py' --> done
+<21.58.57.75295> --> data file error:Extra data: line 7 column 3 (char 83)
+<21.58.57.75295> --> / help --> script: 'help.py' --> done
+<21.59.21.400673> --> data file error:Extra data: line 7 column 3 (char 83)
+<21.59.21.400673> --> /help --> script: 'help.py' --> done
+<22.3.20.93251> --> data file error:'746128749'
+<22.7.21.532718> --> data file error:list indices must be integers or slices, not str
+<22.7.41.858987> --> data file error:list indices must be integers or slices, not str
+<22.7.41.858987> --> /auto --> script: 'auto.py' --> done
+<22.7.53.261692> --> data file error:list indices must be integers or slices, not str
+<22.8.22.417795> --> data file error:list indices must be integers or slices, not str
+<22.10.39.729711> --> data file error:list indices must be integers or slices, not str
+<22.10.48.970866> --> data file error:list indices must be integers or slices, not str
+<22.12.54.188618> --> data file error:'474756974'
+<22.12.54.188618> --> /language --> script: 'language.py' --> script error :list index out of range
+<22.13.14.32371> --> /help --> script: 'help.py' --> done
+<22.14.51.333801> --> /help --> script: 'help.py' --> done
+<22.15.4.498609> --> /Language en --> script: 'language.py' --> done
+<22.15.9.490394> --> /help --> script: 'help.py' --> script error :can only concatenate str (not "list") to str
+<22.17.19.152757> --> /help --> script: 'help.py' --> script error :can only concatenate str (not "list") to str
+<22.19.20.2747> --> /help --> script: 'help.py' --> script error :can only concatenate str (not "list") to str
+<22.21.1.184679> --> /help --> script: 'help.py' --> script error :can only concatenate str (not "list") to str
+<22.23.29.427478> --> /help --> script: 'help.py' --> done
+<22.24.59.715042> --> /help --> script: 'help.py' --> done
+<22.25.10.139183> --> /help --> script: 'help.py' --> done
+<22.27.1.310835> --> /t en дом --> script: 'translator.py' --> done
+<22.29.51.434207> --> /help --> script: 'help.py' --> done
+<22.30.16.228103> --> /l ru --> script: 'language.py' --> done
+<22.30.21.321333> --> /help --> script: 'help.py' --> done
+<22.31.17.114284> --> /help --> script: 'help.py' --> done
+<22.31.36.211942> --> /help --> script: 'help.py' --> done
+<22.32.36.266836> --> /help --> script: 'help.py' --> done
+<22.33.36.291538> --> /ls 
+<22.35.53.378584> --> /t bua --> script: 'translator.py' --> script error :[100] One of the parameters specified was missing or invalid: message is empty or invalid
+<22.36.23.816401> --> /au bua --> script: 'auto.py' --> done
+<22.36.45.14491> --> Добрый день, дорогой друг 'script: translator.py' --> done
+<22.38.16.565848> --> data file error:'225878406'
+<22.38.16.565848> --> Help 'script: translator.py' --> done
+<22.38.32.326549> --> /help --> script: 'help.py' --> done
+<22.39.20.168952> --> /l --> script: 'language.py' --> script error :list index out of range
+<22.39.36.329485> --> /t --> script: 'translator.py' --> script error :list index out of range
+<22.40.28.542801> --> /langs 
+<22.42.20.60348> --> /bua unknown command
+<22.43.46.113519> --> /t привет как дела --> script: 'translator.py' --> done
+<22.44.32.131660> --> /au bua --> script: 'auto.py' --> done
+<22.44.50.277865> --> Я пошел домой после уроков 'script: translator.py' --> done
+<22.47.42.294957> --> /help --> script: 'help.py' --> done
+<22.49.55.641341> --> /help --> script: 'help.py' --> done
+<22.49.59.338846> --> Привет 'script: translator.py' --> done
+<22.50.10.300066> --> /au off --> script: 'auto.py' --> done
+<22.50.23.401496> --> Добрый день 'script: translator.py' --> done
+<22.50.55.79362> --> /au off --> script: 'auto.py' --> done
+<22.51.24.501585> --> /au en --> script: 'auto.py' --> done
+<22.51.28.701554> --> 1 'script: translator.py' --> done
+<22.51.51.865691> --> /l en --> script: 'language.py' --> done
+<22.51.57.328172> --> /help --> script: 'help.py' --> done
+<22.52.6.341961> --> /help --> script: 'help.py' --> done
+<22.53.43.528905> --> /ls 
+<22.55.19.236587> --> /ls 
+<22.57.14.864954> --> /ls 
+<22.59.55.516604> --> /au bua --> script: 'auto.py' --> done
+<23.0.41.48000> --> Прошу вас рассмотреть возможность поставки в наш адрес на который вы мне прислали из них как раз в неделю по колено 'script: translator.py' --> done

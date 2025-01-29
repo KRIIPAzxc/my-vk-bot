@@ -23,7 +23,7 @@ def main(event,vk):
             data = json.load(json_file)
             data = data["output"]
             
-        if eventText[1].casefold() in lang:
+        if eventText[1].lower() in lang:
             print()
             inputText = ' '.join(eventText[2:])
             outputText = translate(inputText,eventText[1])

@@ -2,3 +2,10 @@
 <17.16.3.668119> --> /langs 
 <17.16.26.580768> --> /help --> script: 'help.py' --> done
 <17.16.35.876701> --> /help langs --> script: 'help.py' --> done
+<20.32.6.967227> --> /translate bua переводит ваш текст --> script: 'translator.py' --> done
+<20.34.50.255174> --> /translate bua Любимая мама --> script: 'translator.py' --> done
+<20.35.48.728824> --> /translate bua Любимая мама
+Родное село --> script: 'translator.py' --> done
+<20.36.6.865958> --> /translate bua Родное село --> script: 'translator.py' --> done
+<20.38.19.877791> --> /translate bua дом
+улица --> script: 'translator.py' --> done

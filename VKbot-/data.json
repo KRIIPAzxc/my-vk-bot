@@ -1,7 +1,17 @@
 {
     "746128749": {
-        "lang": "ru",
         "auto": true,
+        "lang": "en",
         "autoLang": "en"
+    },
+    "474756974": {
+        "auto": true,
+        "lang": "ru",
+        "autoLang": "bua"
+    },
+    "225878406": {
+        "auto": true,
+        "lang": "ru",
+        "autoLang": "bua"
     }
 }
